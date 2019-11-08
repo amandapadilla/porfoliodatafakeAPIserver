@@ -67,7 +67,7 @@
         {
           "id": 0,
           "name": "Wireframing",
-          "description": "Sketch, Marvel, etc",
+          "description": "Sketch, Marvel, Axure, open tools",
           "logo": ""
         },
         {
@@ -79,7 +79,7 @@
         {
           "id": 2,
           "name": "Research",
-          "description": "User interviews, Guerrilla testing, A/B testing, analytics",
+          "description": "User interviews, Guerrilla testing, A/B testing, Analytics",
           "logo": ""
         },
         {
@@ -111,13 +111,39 @@
           "name": "Gamification",
           "description": "Planning of learning processes by gamification",
           "logo": ""
+        },
+        {
+          "id": 7,
+          "name": "Accesibility",
+          "description": "",
+          "logo": ""
+        }
+      ],
+      "Design": [
+        {
+          "id": 0,
+          "name": "Graphic design",
+          "description": "Illustrator, Photoshop, Indesign, open tools",
+          "logo": ""
+        },
+        {
+          "id": 1,
+          "name": "Plastic Arts",
+          "description": "",
+          "logo": ""
+        },
+        {
+          "id": 2,
+          "name": "Creativity",
+          "description": "",
+          "logo": ""
         }
       ],
       "Agile": [
         {
           "id": 0,
           "name": "Scrum",
-          "description": "Scrum Master Jr, team comunication coach, ceremonies",
+          "description": "Scrum Master Jr, team communication coaching, ceremonies",
           "logo": ""
         },
         {
@@ -137,9 +163,41 @@
           "name": "Personas",
           "description": "Target public profiles construction",
           "logo": ""
+        },
+        {
+          "id": 4,
+          "name": "Lean",
+          "description": "",
+          "logo": ""
         }
       ],
-      "Comunication": [
+      "Multimedia Production": [
+        {
+          "id": 0,
+          "name": "Video production",
+          "description": "Preproduction, storyboarding, scriptwritting, filming, editing, postproduction, distribution",
+          "logo": ""
+        },
+        {
+          "id": 1,
+          "name": "Audio production",
+          "description": "Preproduction, recording, editing, postproduction, distribution. Podcast, radio broadcasting.",
+          "logo": ""
+        },
+        {
+          "id": 2,
+          "name": "Art direction",
+          "description": "Scenography, photography planning",
+          "logo": ""
+        },
+        {
+          "id": 3,
+          "name": "Photography",
+          "description": "Shooting & editing",
+          "logo": ""
+        }
+      ],
+      "Communication": [
         {
           "id": 0,
           "name": "Public Speaker",
@@ -156,6 +214,32 @@
           "id": 2,
           "name": "Presentations & Briefing",
           "description": "Keynote, Prezi, Slides, Dossier making, documentation",
+          "logo": ""
+        },
+        {
+          "id": 3,
+          "name": "Journalism + Audiovisual Communication",
+          "description": "",
+          "logo": ""
+        }
+      ],
+      "Education": [
+        {
+          "id": 0,
+          "name": "Academic Research",
+          "description": "",
+          "logo": ""
+        },
+        {
+          "id": 1,
+          "name": "Publications",
+          "description": "",
+          "logo": ""
+        },
+        {
+          "id": 2,
+          "name": "Teaching",
+          "description": "Contents structuring, conference, multicultural education, theatrical pedagogy, social education, diversity and accesibility",
           "logo": ""
         }
       ]
@@ -282,6 +366,15 @@
     {
       "id": 13,
       "title": "Pokédex",
+      "description": "React",
+      "screenshot": "",
+      "github": "",
+      "demo": "",
+      "link": ""
+    },
+    {
+      "id": 14,
+      "title": "Mood tracker",
       "description": "React",
       "screenshot": "",
       "github": "",
